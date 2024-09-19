@@ -1,4 +1,7 @@
 {
-  "headerTitle": "Meu Titulo do Cabecalho do {{appName}}",
-  "menuTitle": "Configurações"
+  "settings-dropdown-title": "Configurações",
+  "settings-theme-title": "Tema",
+  "settings-theme-light": "Claro",
+  "settings-theme-dark": "Escuro",
+  "settings-theme-system": "Sistema"
 }
